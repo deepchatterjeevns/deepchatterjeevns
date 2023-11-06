@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepchatterjee
-- 👀 I’m interested in DevOps, AWS
-- 🌱 I’m currently learning kubernetes
+- 👀 I’m interested in DevOps, AWS, Kubernetes
+- 🌱 I’m currently learning Azure, GCP
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me 
 
